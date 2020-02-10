@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="code" format="string" />
+    <attr name="directions" format="enum" >
+        <enum name="cardinal" value="0"/>
+        <enum name="intercardinal" value="1"/>
+    </attr>
+
+    <declare-styleable name="SwipeCodeView">
+        <attr name="code" />
+        <attr name="directions"/>
+    </declare-styleable>
+
+</resources>

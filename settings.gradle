@@ -1,0 +1,2 @@
+include ':swipe-code-view'
+rootProject.name='mld-swipe-code-view'
